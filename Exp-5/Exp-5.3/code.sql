@@ -12,4 +12,5 @@ BEGIN
     ELSE 
         'Your VALUE IS % AND GREATER THAN 30', VAL;
     END IF;
-END $$;
+    END;
+$$;
